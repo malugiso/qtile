@@ -1,0 +1,10 @@
+inoremap jk <esc>
+vnoremap jk <esc>
+nnoremap <leader>q :q<cr>
+nnoremap <leader>w :w<CR>
+noremap <C-h> <C-W>h
+noremap <C-j> <C-W>j
+noremap <C-k> <C-W>k
+noremap <C-l> <C-W>l
+nnoremap <C-e> 3<C-e>
+nnoremap <C-y> 3<C-y>
